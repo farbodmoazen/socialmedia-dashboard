@@ -8,23 +8,23 @@
     --toggle: linear gradient hsl(210, 78%, 56%) to hsl(146, 68%, 55%);
     --darktoggle: hsl(230, 22%, 74%);
     //- Very Dark Blue (BG): hsl(230, 17%, 14%)
-    --veryDarkBlue: hsl(230, 17%, 14%);
+    --darkbg: hsl(230, 17%, 14%);
     //- Dark Desaturated Blue (Card BG): hsl(228, 28%, 20%)
-    ---darkDesaturatedBlue: hsl(230, 17%, 14%);
+    ---darkcardbg: hsl(230, 17%, 14%);
     //- Desaturated Blue (Text): hsl(228, 34%, 66%)
-    ---DesaturatedBlue: hsl(228, 34%, 66%);
+    ---lighttext: hsl(228, 34%, 66%);
     //- White (Text): hsl(0, 0%, 100%)
     --whiteText: hsl(0, 0%, 100%);
        //- White (bg): hsl(0, 0%, 100%)
        --whiteBg: hsl(0, 0%, 100%);
        //- Very Pale Blue (Top BG Pattern): hsl(225, 100%, 98%)
-       --veryPaleBlue: hsl(225, 100%, 98%);
+       --lighttopbg: hsl(225, 100%, 98%);
        //- Light Grayish Blue (Card BG): hsl(227, 47%, 96%)
-       --lightGrayishBlue:hsl(227, 47%, 96%);
+       --lightcardbg:hsl(227, 47%, 96%);
        //- Dark Grayish Blue (Text): hsl(228, 12%, 44%)
-       --darkGrayishBlue: hsl(228, 12%, 44%);
+       --darkgrayishtext: hsl(228, 12%, 44%);
        //- Very Dark Blue (Text): hsl(230, 17%, 14%)
-       --veryDarkBlue: hsl(230, 17%, 14%);
+       --darkbluetext: hsl(230, 17%, 14%);
 }
 
 
